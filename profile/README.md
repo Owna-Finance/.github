@@ -48,7 +48,7 @@ We're not just building a platform – we're building a movement to democratize 
 - 🐦 **Twitter**: [@ownafinance](https://x.com/ownafinance)
 - 📚 **Documentation**: [GitBook](https://owna-finance.gitbook.io/owna-finance-docs)
 - 📊 **Pitch Deck**: [View Presentation](https://www.canva.com/design/DAG1iwLBdME/MART7r9j8Zr3pSbOQhzfOw/view)
-- 🌐 **Website**: [Website](https://owna-finance.vercel.app)
+- 🌐 **Website**: [Website](https://ownafinance.xyz) 
 - 📀 **Demo Video** [Youtube](https://www.youtube.com/watch?v=gHwPkTDW0Zs)
 - 🦄 **Devfolio** [Devfolio](https://devfolio.co/projects/owna-finance-f2cf)
 
